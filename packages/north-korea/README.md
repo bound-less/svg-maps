@@ -1,9 +1,9 @@
 # North Korea
-[![npm version](https://badgen.net/npm/v/@svg-maps/tunisia)](https://www.npmjs.com/package/@svg-maps/tunisia)
+[![npm version](https://badgen.net/npm/v/@svg-maps/north-korea)](https://www.npmjs.com/package/@svg-maps/north-korea)
 [![License: simplemaps](https://img.shields.io/badge/License-simplemaps-blue.svg)](https://simplemaps.com/resources/svg-license)
 
 Contains all Provinces, Directly-governed cities, and Special cities of North Korea:
-* Jagang
+* Chagang
 * Kangwon
 * Nampo
 * North Hamgyong
